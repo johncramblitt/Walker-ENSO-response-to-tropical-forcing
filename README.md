@@ -1,4 +1,4 @@
-This repository contains code in support of "Zonal atmopsheric energy transports and the ENSO response to tropical forcing," currently under review at Geophysical Research Letters.
+This repository contains code in support of "Zonal atmopsheric energy transports and the ENSO response to localized tropical forcing," currently under review at Geophysical Research Letters.
 
 - process_efp.ipynb contians code to open/merge data files on single levels and calculate energy flux potential
 - process_efp_rNEI.ipynb contains code to open/merge files on single levels and calculate energy flux potential for a restricted NEI in the NAFR forcing case.
