@@ -5,6 +5,6 @@ This repository contains code in support of "Zonal atmopsheric energy transports
 - process_vertical.ipynb contains code to open/merge files on pressure levels (3D winds).
 - figures.ipynb contains code to generate all figures in "Zonal atmopsheric energy transports and the ENSO response to tropical forcing."
 
-Code was developed by John Cramblitt, borrowing a function to solve the laplacian equation for energy flux potential from John Chiang.
+Code was developed by John Cramblitt, borrowing a function to solve the Poisson equation for energy flux potential from John Chiang.
 
 Please contact John Cramblitt (jcramblitt@berkeley.edu) with questions.
